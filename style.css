@@ -1,0 +1,51 @@
+/* Google Font Family link */
+
+* {
+  background-color: darkgrey;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: hsl(330, 4%, 10%);
+  font-family: "Itim", cursive;
+  text-align: center;
+}
+h2 {
+  text-shadow: 2px 2px 1px rgb(91, 92, 95);
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+.label {
+  font-size: 1.5em;
+  padding-right: 30px;
+}
+button {
+  color: rgb(77, 18, 241);
+  background-color: cadetblue;
+  font-size: large;
+  border-radius: 60px;
+  border-width: 3px;
+  margin: 15px;
+}
+button:hover {
+  background-color: rgb(19, 177, 216);
+}
+h3 {
+  font-family: "Itim", cursive;
+  margin-bottom: 20px;
+}
+div {
+  margin: 50px;
+  padding: 25px;
+  width: 350px;
+  height: 250px;
+  box-sizing: content-box;
+  border: 3px solid red;
+  box-shadow: 05px 05px;
+}
+p{
+  display: inline-block;
+}
+a{
+  margin-right: 10px;
+  font-size: 25px;
+}
